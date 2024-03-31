@@ -10,8 +10,8 @@ https://github.com/Chirooon/Password_gen/assets/155199793/8ca99ab9-3843-4b78-8ac
 
 # Need help ? 
 
-[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
 
 # Codeing request? 
 
-[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/chiron6750)
+[![Discord](https://img.shields.io/badge/Add_me_on-Discord-blue.svg)](https://discord.com/users/792468382083448853)
